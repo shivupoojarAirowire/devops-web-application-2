@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'shiva-rvce2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CAC7BEAF7C14FA79A88ADA16534FC6D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACFE352675C040229E330E8A77CF98BA }}
